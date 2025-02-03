@@ -1,0 +1,5 @@
+ultralytics 
+ultralytics-thop
+torch
+torchvision
+supervision 
