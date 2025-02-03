@@ -1,0 +1,141 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Image Label
+/training/football-players-detection-1/football-players-detection-1/test/labels
+/training/football-players-detection-1/football-players-detection-1/train/labels
+/training/football-players-detection-1/football-players-detection-1/valid/labels
+
+### Video ###
+*.3g2
+*.3gp
+*.asf
+*.asx
+*.avi
+*.flv
+*.mkv
+*.mov
+*.mp4
+*.mpg
+*.ogv
+*.rm
+*.swf
+*.vob
+*.wmv
+*.webm
+
+## Image ###
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.ico
+*.svg
+*.tif
+*.tiff
+
+
+# PyTorch files
+
+*.pt
+
+# Distribution / packaging
+
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# DotEnv configuration
+.env
+
+# Database
+*.db
+*.rdb
+
+# Pycharm
+.idea
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Spyder
+.spyproject/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+
+# Mac OS-specific storage files
+.DS_Store
+
+# vim
+*.swp
+*.swo
+
+# Mypy cache
+.mypy_cache/
+
+# Exlcude the database file
+.db
+
+# Virtual environment
+.venv/
+venv/
+.conda/
+
+# Exclude threads_db files
+threads_db.bak
+threads_db.dat
+threads_db.dir
